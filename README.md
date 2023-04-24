@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+These are my projects for my educational purposes.
+
+### Welcome All 😄
+
 <!--
 **SkMorningstar/SkMorningstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
