@@ -1,0 +1,37 @@
+{
+  "question": [
+    "1. What is ChatGPT?",
+    "2. Which comapany developed ChatGPT?",
+    "3. What type of architecture is ChatGPT?",
+    "4. What is the purpose of ChatGPT?"
+  ],
+  "answer": [
+    1,
+    3,
+    3,
+    4
+  ],
+  "options": [
+
+    ["A chatbot",
+      "A programming language",
+      "A social media platform",
+      "A video game"
+    ],
+    ["Google",
+      "Facebook",
+      "OpenAI",
+      "Amazon"
+    ],
+    ["GPT-1",
+      "GPT-2",
+      "GPT-3",
+      "GPT-4"
+    ],
+    ["To provide weather forecasts",
+      "To play games with users",
+      "To monitor user activity",
+      "To answer user questions and engage in conversation"
+    ]
+  ]
+}
